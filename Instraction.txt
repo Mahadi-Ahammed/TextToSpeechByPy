@@ -1,0 +1,7 @@
+First, you need to install "GTTS".
+
+Go to windows search bar ,then search RUN, then run the CMD/terminal.
+
+Now Type:- "pip install gTTS".
+
+Now ran the basic.py file and follow.
